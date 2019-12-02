@@ -10,6 +10,12 @@
       "vacuum",
       "irobot"
     ],
+     "no": [
+      "roomba",
+      "Støvsuger",
+      "Robot støvsuger",
+      "irobot"
+    ],
     "nl": [
       "roomba",
       "stofzuiger",
@@ -26,6 +32,7 @@
   },
   "description": {
     "en": "iRobot Roomba support for Homey",
+    "no": "iRobot Roomba support for Homey",
     "nl": "iRobot Roomba ondersteuning voor Homey"
   },
   "images": {

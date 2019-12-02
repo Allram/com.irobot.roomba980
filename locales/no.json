@@ -1,0 +1,18 @@
+{
+  "pair": {
+    "add": {
+      "title": "Koble sammen din Roomba",
+      "press_home": "1. Plasser Roomba i docken.<br><br>2. Trykk på hjem-knappen på din Roomba til den lager pipelyder.<br><br>Tilkobling kan ta opptil 10 sekunder."
+    }
+  },
+  "error": {
+    "offline": "Roomba er frakoblet",
+    "unknown": "Noe gikk galt, prøv igjen.",
+    "duplicate_device": "Enheten er allerede koblet til Homey.",
+    "create_device_unknown": "Noe gikk galt, enheten kunne ikke kobles til Homey.",
+    "in_use": "Noen eller noe er for øyeblikket tilkoblet din Roomba. Fjern denne tilkoblingen og prøv igjen.",
+    "password_timeout": "Kunne ikke autentisere med denne Roomba, prøv igjen.",
+    "spot_cleaning": "Spott-rensing er kun mulig ved å trykke knappen på Roomba.",
+    "failed_state_change": "Noe gikk galt"
+  }
+}
